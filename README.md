@@ -11,7 +11,7 @@ More information can be found [here](https://github.com/trackoverxc/Zillow_Kaggl
 
 ## SAT Score EDA - R - 2017 
 
-In this project, I conduct Exploratory data analysis on a the 2012 SAT Scores from the 5 boroughs of New York City. More information can be found [here](https://github.com/malctaylor15/NYC_SAT_Scores_2012)
+In this project, I conduct Exploratory data analysis on a the 2012 SAT Scores from the 5 boroughs of New York City. More information can be found [here](https://malctaylor15.github.io/NYC_SAT_Scores_2012/)
 
 
 ## Stephen Curry / Under Armour Project - R - 2016 
