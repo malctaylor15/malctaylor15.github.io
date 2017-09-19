@@ -1,12 +1,11 @@
 # Hello 
 
-Hello my name is Malcolm Taylor. This website is designed to help you get to know more about me and my projects.  
+Hello! My name is Malcolm Taylor. This website is designed to help you get to know more about me and my projects.  
 Feel free to look at my various projects and please contact me if you have any questions.  
 
 ## Zillow Rental Project - iPython Notebook - 2017 
 
-In this project, I work on the 2017 Kaggle Zillow error prediction competition. The goal of this competition is to predict the difference between Zillow's housing estimate and the sale price of the house given various information about the properties. I worked with [Devin Rose]() on this project to apply several machine learning algorithms to the dataset.  
-We used practiced using linear regression, K-Nearest Neighbors and Neural Networks. 
+In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I work on the 2017 Kaggle Zillow error prediction competition. The goal of this competition is to predict the difference between Zillow's housing estimate and the sale price of the house given various information about the properties. We clean the data set and apply several machine learning algorithms to generate predictions on the test set. We used practiced using linear regression, K-Nearest Neighbors and Neural Networks. 
 More information can be found [here](https://github.com/trackoverxc/Zillow_Kaggle)
 
 
@@ -17,8 +16,7 @@ In this project, I conduct Exploratory data analysis on a the 2012 SAT Scores fr
 
 ## Stephen Curry / Under Armour Project - R - 2016 
 
-In this project, I examine Stephen Curry's performance with his sponsor UnderAromours over night stock return. 
-More information about this project can be found [here](https://github.com/malctaylor15/NBA_Project)
+In this project, I examine Stephen Curry's performance with the over night stock return of his corporate sponsor Under Aromour. More information about this project can be found [here](https://github.com/malctaylor15/NBA_Project)
 
 ## VIX Bayesian - R - 2016
 
