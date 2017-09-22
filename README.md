@@ -16,18 +16,18 @@ In this project, I conduct Exploratory data analysis on a the 2012 SAT Scores fr
 
 ## Stephen Curry / Under Armour Project - R - 2016 
 
-In this project, I examine Stephen Curry's performance with the over night stock return of his corporate sponsor Under Aromour. More information about this project can be found [here](https://github.com/malctaylor15/NBA_Project)
+In this project, I examine Stephen Curry's performance with the over night stock return of his corporate sponsor Under Aromour. More information about this project can be found [here](https://malctaylor15.github.io/NBA_Project/)
 
 ## VIX Bayesian - R - 2016
 
 In this project, I examine the stock ticker for the Volatility Index (VIX). I use a Bayesian version of a time series linear regression. 
 We aim to obtain predictive posterior distributions for the VIX given weekly data over a 3 year period. 
-This project was inspired by an assignment at Boston University. More information can be found [here](https://github.com/malctaylor15/VIX_Bayesian)
+This project was inspired by an assignment at Boston University. More information can be found [here](https://malctaylor15.github.io/VIX_Bayesian/)
 
 ## Abalone Age Project - iPython Notebook - 2016 
 
 In this project, I analyze the famous Abalone dataset from the University at California Irivine (UCI). We visualize some of the data and practice data cleaning and running a few machine learning algorithms on the data. 
-More information can be found [here](https://github.com/malctaylor15/Abalones_Age)
+More information can be found [here](https://malctaylor15.github.io/Abalones_Age/)
 
 
 
