@@ -1,7 +1,5 @@
 # Hello 
 
-[malctaylor15.github.io/headshot.JPG]
-
 Hello! My name is Malcolm Taylor. This website is designed to help you get to know more about me and my projects.  
 Feel free to look at my various projects and please contact me if you have any questions.  
 
