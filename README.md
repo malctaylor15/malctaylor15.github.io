@@ -9,6 +9,11 @@ In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I w
 More information can be found [here](https://github.com/trackoverxc/Zillow_Kaggle)
 
 
+## Wine Quality Analysis (including Bayesian) - iPython Notebook - 2017
+In this project, I compare a standard linear regression and Bayesian linear regression to understand the effects of several features on the quality rating of red wines. Given several chemical quantities of the wine, can we predict which wines will be the highest rating?
+More information can be found [here](https://malctaylor15.github.io/Wine_Quality/)
+
+
 ## SAT Score EDA - R - 2017 
 
 In this project, I conduct Exploratory data analysis on a the 2012 SAT Scores from the 5 boroughs of New York City. More information can be found [here](https://malctaylor15.github.io/NYC_SAT_Scores_2012/)
