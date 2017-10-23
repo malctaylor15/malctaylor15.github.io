@@ -9,8 +9,9 @@ In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I w
 More information can be found [here](https://github.com/trackoverxc/Zillow_Kaggle)
 
 
-## Wine Quality Analysis (including Bayesian) - iPython Notebook - 2017
-In this project, I compare a standard linear regression and Bayesian linear regression to understand the effects of several features on the quality rating of red wines. Given several chemical quantities of the wine, can we predict which wines will be the highest rating?
+## Wine Quality Analysis - iPython Notebook - 2017
+In this project, the goal is to predict the quality of wine based on several chemical features. There are two sets of analysis. In one notebook, we try to determine which wines are high quality compared to low quality in a classification setting. We compare a standard logistic regression with a Bayesian logistic regression using pymc3.  
+In the other notebook, we examine the quality as a continous regression problem using Random Forest and Linear Regression. We conduct some exploratory data analysis, preprocess the data and run the algorith. We also conduct a random search among the hyper parameters of the Random Forest to find an optimal model without taking too much time.  
 More information can be found [here](https://malctaylor15.github.io/Wine_Quality/)
 
 
