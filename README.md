@@ -1,7 +1,13 @@
 # Hello 
 
 Hello! My name is Malcolm Taylor. This website is designed to help you get to know more about me and my projects.  
-Feel free to look at my various projects and please contact me if you have any questions.  
+Feel free to look at my various projects and please contact [me](malctaylor15@gmail.com) if you have any questions.  
+
+## Song Lyrics NLP Analysis - Python Scripts -2017 ** Still in Progress ** 
+
+In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I use the spotify and genius APIs to get the lyrics for user created playlists. 
+We plan on building word vectors on the playlist as well as applying pretrained representations on the playlist to learn more about the lyrics of the playlist. More information can be found [here] (https://github.com/malctaylor15/Song_Lyrics_NLP)
+
 
 ## Zillow Rental Project - iPython Notebook - 2017 
 
@@ -19,6 +25,11 @@ More information can be found [here](https://malctaylor15.github.io/Wine_Quality
 
 In this project, I conduct Exploratory data analysis on a the 2012 SAT Scores from the 5 boroughs of New York City. More information can be found [here](https://malctaylor15.github.io/NYC_SAT_Scores_2012/)
 
+## Stock Forecasting using Fundamental Data - R - 2016
+
+This was a group project where we attempted to forecast the monthly return and sign of the return of several public companies. 
+The team and I used elastic net regression techniques, random forest and deep neural networks to create an ensemble model.  
+This project was a final assignment at Boston University. More information can be found [here](https://github.com/malctaylor15/MF850_Computational_Finance_Final)
 
 ## Stephen Curry / Under Armour Project - R - 2016 
 
