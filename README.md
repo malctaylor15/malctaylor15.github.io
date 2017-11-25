@@ -6,7 +6,7 @@ Feel free to look at my various projects and please contact [me](malctaylor15@gm
 ## Song Lyrics NLP Analysis - Python Scripts -2017 ** Still in Progress ** 
 
 In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I use the spotify and genius APIs to get the lyrics for user created playlists. 
-We plan on building word vectors on the playlist as well as applying pretrained representations on the playlist to learn more about the lyrics of the playlist. More information can be found [here] (https://github.com/malctaylor15/Song_Lyrics_NLP)
+We plan on building word vectors on the playlist as well as applying pretrained representations on the playlist to learn more about the lyrics of the playlist. More information can be found [here](https://github.com/malctaylor15/Song_Lyrics_NLP)
 
 
 ## Zillow Rental Project - iPython Notebook - 2017 
