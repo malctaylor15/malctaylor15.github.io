@@ -1,7 +1,7 @@
 # Hello 
 
 Hello! My name is Malcolm Taylor. This website is designed to help you get to know more about me and my projects.  
-Feel free to look at my various projects and please contact [me](malctaylor15@gmail.com) if you have any questions.  
+Feel free to look at my various projects and contact me  at malctaylor15@gmail.com if you have any questions.  
 
 ## Song Lyrics NLP Analysis - Python Scripts - 2017   ** in Progress ** 
 
