@@ -24,6 +24,10 @@ More information can be found [here](https://malctaylor15.github.io/Wine_Quality
 
 In this project, I conduct Exploratory data analysis on a the 2012 SAT Scores from the 5 boroughs of New York City. More information can be found [here](https://malctaylor15.github.io/NYC_SAT_Scores_2012/)
 
+## Rental List Inquiries - R -2017 
+
+In this project, I construct several R scripts to explore and create predictions for the rental listings dataset from the Kaggle competition. I use the h2o platform in R to conduct one-vs-all logistic regression and a random search through the hyper parameters of a gradient boosted machine. More information can be found [here](https://malctaylor15.github.io/Rental-List-Inquiries/) 
+
 ## Stock Forecasting using Fundamental Data - R - 2016
 
 This was a group project where we attempted to forecast the monthly return and sign of the return of several public companies. 
