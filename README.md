@@ -8,7 +8,7 @@ Feel free to look at my various projects and contact me  at malctaylor15@gmail.c
 In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I use the spotify and genius APIs to get the lyrics for user created playlists. We plan on building word vectors on the playlist as well as applying pretrained representations on the playlist to learn more about the lyrics of the playlist. More information can be found [here](https://github.com/malctaylor15/Song_Lyrics_NLP)
 
 
-## Zillow Rental Project - iPython Notebook - 2017 
+## Zillow Z-Estimate Home Value Prediction Project - iPython Notebook - 2017 
 
 In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I work on the 2017 Kaggle Zillow error prediction competition. The goal of this competition is to predict the difference between Zillow's housing estimate and the sale price of the house given various information about the properties. We clean the data set and apply several machine learning algorithms to generate predictions on the test set. We used practiced using linear regression, K-Nearest Neighbors and Neural Networks. 
 More information can be found [here](https://malctaylor15.github.io/Zillow_Kaggle/)
@@ -24,7 +24,7 @@ More information can be found [here](https://malctaylor15.github.io/Wine_Quality
 
 In this project, I conduct Exploratory data analysis on a the 2012 SAT Scores from the 5 boroughs of New York City. More information can be found [here](https://malctaylor15.github.io/NYC_SAT_Scores_2012/)
 
-## Rental List Inquiries - R -2017 
+## Rental List Inquiries by Two Sigma - R -2017 
 
 In this project, I construct several R scripts to explore and create predictions for the rental listings dataset from the Kaggle competition. I use the h2o platform in R to conduct one-vs-all logistic regression and a random search through the hyper parameters of a gradient boosted machine. More information can be found [here](https://malctaylor15.github.io/Rental-List-Inquiries/) 
 
@@ -38,7 +38,7 @@ This project was a final assignment at Boston University. More information can b
 
 In this project, I examine Stephen Curry's performance with the over night stock return of his corporate sponsor Under Aromour. More information about this project can be found [here](https://malctaylor15.github.io/NBA_Project/)
 
-## VIX Bayesian - R - 2016
+## VIX Forecasting, Bayesian Monte Carlo Simulation Assignment - R - 2016
 
 In this project, I examine the stock ticker for the Volatility Index (VIX). I use a Bayesian version of a time series linear regression. 
 We aim to obtain predictive posterior distributions for the VIX given weekly data over a 3 year period. 
