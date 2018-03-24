@@ -3,9 +3,14 @@
 Hello! My name is Malcolm Taylor. This website is designed to help you get to know more about me and my projects.  
 Feel free to look at my various projects and contact me  at malctaylor15@gmail.com if you have any questions.  
 
-## Song Lyrics NLP Analysis - Python Scripts - 2017   ** in Progress ** 
+## Electrolysia Energy Optimization - iPython Notebooks - 2018 ** in Progress **
 
-In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I use the spotify and genius APIs to get the lyrics for user created playlists. We plan on building word vectors on the playlist as well as applying pretrained representations on the playlist to learn more about the lyrics of the playlist. More information can be found [here](https://github.com/malctaylor15/Song_Lyrics_NLP)
+This dataset is provided via the Analytics Vidhya hackathon betwen January 13, 2018- January 14, 2018. and consists of hourly measurements for electricity consumption as well as several environmental features. While I did not compete in the competition, this dataset useful for performing analysis on a  multivariate time series. I explore standard machine learning techniques such as linear regression and random forests and more complex algorithms such as Recurrent Neural Networks and Long Short Term Memory Networks. More information can be found [here](https://malctaylor15.github.io/Analytics_Vidhya_01132017)   
+
+
+## Song Lyrics NLP Analysis - Python Scripts - 2018   ** in Progress ** 
+
+In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I use the spotify and genius APIs to get the lyrics for songs in user created playlists. We are able to pull several musical metrics for each song from the Spotify API such as danceability and acousticness. We are able conduct different analyses based on the Spotify metrics as well as other features from the song lyrics. More information can be found [here](https://github.com/malctaylor15/Song_Lyrics_NLP)
 
 
 ## Zillow Z-Estimate Home Value Prediction Project - iPython Notebook - 2017 
