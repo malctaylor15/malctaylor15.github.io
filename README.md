@@ -3,7 +3,7 @@
 Hello! My name is Malcolm Taylor. This website is designed to help you get to know more about me and my projects.  
 Feel free to look at my various projects and contact me  at malctaylor15@gmail.com if you have any questions.  
 
-## Tinder Data Exploratory Analysis 
+## Tinder Data Exploratory Analysis - Python Scripts - 2019 
 
 Tinder is a dating app that allows users to start conversations if they both like the other's profile. I was able to download all data Tinder has available from my profile and interactions since I opened an account with them. In this project, I analyzed my Tinder data and created visualizations via Dash. I also explored deploying the website via Amazon Web Services via different methodologies. More information can be found [here](https://github.com/malctaylor15/Tinder_analysis)  
 
