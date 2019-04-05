@@ -3,13 +3,17 @@
 Hello! My name is Malcolm Taylor. This website is designed to help you get to know more about me and my projects.  
 Feel free to look at my various projects and contact me  at malctaylor15@gmail.com if you have any questions.  
 
+## Tinder Data Exploratory Analysis 
 
-## Electrolysia Energy Optimization - iPython Notebooks - 2018 ** on Hold **
+Tinder is a dating app that allows users to start conversations if they both like the other's profile. I was able to download all data Tinder has available from my profile and interactions since I opened an account with them. In this project, I analyzed my Tinder data and created visualizations via Dash. I also explored deploying the website via Amazon Web Services via different methodologies. More information can be found [here](https://github.com/malctaylor15/Tinder_analysis)  
+
+
+## Electrolysia Energy Optimization - iPython Notebooks - 2018
 
 This dataset is provided via the Analytics Vidhya hackathon betwen January 13, 2018- January 14, 2018. and consists of hourly measurements for electricity consumption as well as several environmental features. While I did not compete in the competition, this dataset useful for performing analysis on a  multivariate time series. I explore standard machine learning techniques such as linear regression and random forests and more complex algorithms such as Recurrent Neural Networks and Long Short Term Memory Networks. More information can be found [here](https://malctaylor15.github.io/Analytics_Vidhya_01132017)   
 
 
-## Song Lyrics NLP Analysis - Python Scripts - 2018   ** in Progress **
+## Song Lyrics NLP Analysis - Python Scripts - 2018  
 
 In this project, my friend [Devin Rose](https://github.com/trackoverxc/) and I use the spotify and genius APIs to get the lyrics for songs in user created playlists. Next we use pre-trained embeddings for the words in each song to generate an embedding for song and reduce the dimensionality using TSNE for visualization. We are also able to pull several musical metrics for each song from the Spotify API such as danceability and acousticness. We are able conduct different analyses based on the Spotify metrics as well as other features from the song lyrics and embeddings. More information can be found [here](https://github.com/malctaylor15/Song_Lyrics_NLP)
 
